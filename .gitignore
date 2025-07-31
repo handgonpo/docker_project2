@@ -7,6 +7,7 @@ __pycache__/
 *.pyd
 .env
 .gitignore
+.venv/
 
 # 환경 변수 파일 (보안 중요)
 .env
