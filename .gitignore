@@ -8,6 +8,8 @@ __pycache__/
 .env
 .gitignore
 .venv/
+my-ec2-key.pem
+my-ec2-key.pem:Zone.Identifier
 
 # 환경 변수 파일 (보안 중요)
 .env
