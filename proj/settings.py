@@ -22,8 +22,6 @@ ALLOWED_HOSTS = os.getenv("DJANGO_ALLOWED_HOSTS", "").split(",")
 # SECRET_KEY = "django-insecure-9e5o8wtw8!wu@+w9+$-p_73ri+!u+vp1k@f4u33x*^43@6cft&"
 
 
-ALLOWED_HOSTS = ["*"]
-
 # Application definition
 
 INSTALLED_APPS = [
